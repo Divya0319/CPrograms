@@ -1,5 +1,5 @@
 # CPrograms
-C Programs for some usecases, follwing a different approach.
+C Programs for some usecases, following a different approach.
 
 #### It contains the following programs - 
 
